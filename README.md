@@ -23,9 +23,12 @@ Todos los ejemplos funcionan correctamente.
 ![enter image description here](https://i.ytimg.com/vi/2TikTv6PWDw/maxresdefault.jpg)
 > Modelo muy usado en la robotica para el picking con brazon electromecánicos.
 
+
 [COLAB_PoseEstimator](https://github.com/Juan-glitch/CV-Models/blob/main/COLAB_PoseEstimator.ipynb "COLAB_PoseEstimator.ipynb")
+
 ![enter image description here](https://automaticaddison.com/wp-content/uploads/2021/03/human_pose_gif-1.gif)
-> Modelo encargado de capturar los movimientos del cuerpo. 3
+
+> Modelo encargado de capturar los movimientos del cuerpo.
 
 Nota:
 
