@@ -34,3 +34,6 @@ Un **cuarto ejemplo** renderizando videos con un **nuevo modelo** -> **¡NO FUNC
 [COLAB_Transfer_Learning_Clasificacion](https://github.com/Juan-glitch/CV-Models/blob/main/COLAB_Transfer_Learning_Clasificacion.ipynb "COLAB_Transfer_Learning_Clasificacion.ipynb")
 ![enter image description here](https://i.pinimg.com/originals/58/72/e3/5872e3b3c8bc9593b2ebfadd541a127a.gif)
 > Híbrido de VGG19 con el dataset the IMAGE-NET bien explicado aplicando conceptos de Transfer Learning.
+
+
+
